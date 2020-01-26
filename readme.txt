@@ -5,3 +5,4 @@ Git tracks changes of files.
 add merge
 dev
 partner
+latest version
