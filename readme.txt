@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 add merge
 dev
+partner
 latest version
